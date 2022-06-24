@@ -1,0 +1,29 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="DesignSurface">
+    <option name="filePathToZoomLevelMap">
+      <map>
+        <entry key="app/src/main/res/drawable-v24/default_ans_border.xml" value="0.22" />
+        <entry key="app/src/main/res/drawable-v24/ic_launcher_foreground.xml" value="0.22" />
+        <entry key="app/src/main/res/drawable-v24/selected_ans_border.xml" value="0.22" />
+        <entry key="app/src/main/res/drawable/ic_launcher_background.xml" value="0.22" />
+        <entry key="app/src/main/res/font/font.xml" value="0.4074074074074074" />
+        <entry key="app/src/main/res/layout/activity_choice.xml" value="0.3591485507246377" />
+        <entry key="app/src/main/res/layout/activity_finish_ru.xml" value="0.3439767779390421" />
+        <entry key="app/src/main/res/layout/activity_finish_us.xml" value="0.3439767779390421" />
+        <entry key="app/src/main/res/layout/activity_main.xml" value="0.3591485507246377" />
+        <entry key="app/src/main/res/layout/activity_move_me.xml" value="0.3375" />
+        <entry key="app/src/main/res/layout/activity_ru_test.xml" value="0.3591485507246377" />
+        <entry key="app/src/main/res/layout/activity_test.xml" value="0.3591485507246377" />
+        <entry key="app/src/main/res/layout/activity_webby.xml" value="0.3375" />
+        <entry key="app/src/main/res/layout/item_layout.xml" value="0.3591485507246377" />
+      </map>
+    </option>
+  </component>
+  <component name="ProjectRootManager" version="2" languageLevel="JDK_11" default="true" project-jdk-name="Android Studio default JDK" project-jdk-type="JavaSDK">
+    <output url="file://$PROJECT_DIR$/build/classes" />
+  </component>
+  <component name="ProjectType">
+    <option name="id" value="Android" />
+  </component>
+</project>

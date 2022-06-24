@@ -1,0 +1,39 @@
+{
+  "project_info": {
+    "project_number": "191044437792",
+    "project_id": "green-day-b597b",
+    "storage_bucket": "green-day-b597b.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:191044437792:android:4ece0e1e9e1c07a4b43945",
+        "android_client_info": {
+          "package_name": "com.airbnb.androi"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "191044437792-skf94rt2b9a9luukn2kd94ftn0a0u2ba.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyA-__ySdU7HOASTD2iGuy6d0mXyprx7gCs"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "191044437792-skf94rt2b9a9luukn2kd94ftn0a0u2ba.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
